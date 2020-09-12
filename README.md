@@ -1,6 +1,5 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 <h1>HOGE!!!!</h1>
-<button>Button</button>
 <!--
 **den-taku/den-taku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
