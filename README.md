@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 <h1>HOGE!!!!</h1>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=den-taku&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=den-taku&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
