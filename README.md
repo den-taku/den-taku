@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 -->
 
 <!-- acount test -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=den-taku)](https://git.io/streak-stats)
