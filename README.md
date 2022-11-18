@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-<h1 align="center">I'm DenTaku!⚡️</h1>
+<h1 align="center">I'm Takumi Tada!⚡️</h1>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=den-taku&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=den-taku&theme=vue-dark&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
